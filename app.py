@@ -1,5 +1,6 @@
 # python -m venv env //crear un entorno
 # inclopeto la activacion del entorno
+# ejemplos en https://drive.google.com/drive/folders/1fupyz03n6XqOZiYsiOzF6gJ9fWEDc0QY
 
 
 import os
